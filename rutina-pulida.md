@@ -4,6 +4,7 @@
 > _(Acotaciones de acting en cursiva entre paréntesis.)_
 > Esto ya es un **banco de material**: hay más de 5 min. Elegís según el spot.
 > Material en reserva y diagnóstico completo en `notas-taller.md`.
+> **Bloques nuevos** (obús, bronca, banco Laura/Yenny, therian ampliado, provincias, Rosario, sueltos y cierres) en `bloques-nuevos.md`.
 
 ---
 
